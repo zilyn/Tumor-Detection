@@ -1,0 +1,9 @@
+pandas==2.2.2
+matplotlib==3.8.4
+tqdm==4.66.4
+opencv_python==4.9.0.80
+torch==2.3.0
+albumentations==1.4.6
+numpy==1.26.4
+PyYAML==6.0.1
+scikit_learn==1.4.2
