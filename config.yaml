@@ -1,0 +1,9 @@
+extn: .png
+epochs: 1
+im_width: 384
+im_height: 288
+model_path: models/model.pth
+log_path: models/logs/logs.csv
+image_path: input/PNG/Original
+mask_path: input/PNG/Ground Truth
+output_path: prediction.png
