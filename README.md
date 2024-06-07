@@ -1,6 +1,5 @@
 # Tumor Detection Model
 
-# Execution Instructions
 
 # Python version 3.8
 
