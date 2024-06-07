@@ -1,6 +1,4 @@
-# UNet++ Model on CVC-ClinicDB Dataset
-
-This repository contains the code for the UNet++ implementation on the [CVC-ClinicDB Dataset](https://www.kaggle.com/balraj98/cvcclinicdb) from [Kaggle](https://www.kaggle.com/).
+Tumor Detection Model
 
 # Execution Instructions
 
