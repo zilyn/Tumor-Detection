@@ -3,7 +3,7 @@ from PIL import Image
 from predict import predict
 
 
-st.title("Tumor Detection using U-Net++")
+st.title("Tumor Detection using Deep Learning")
 
 
 uploaded_file = st.file_uploader("Choose an image...", type="png")
